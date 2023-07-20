@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-my phone number is 029883655
-=======
-my phone number is 029883655
-my email is Beam@gmail.com
->>>>>>> da0de7bb33da254a9f802c855d3e67e674ab07d2
